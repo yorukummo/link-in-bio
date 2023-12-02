@@ -7,8 +7,6 @@ Link-in-bio for Argonautts
 - JavaScript
 - Vanta.js
 
-Create your own website
-
 ## License
 
 MIT by Alexander Kozin
