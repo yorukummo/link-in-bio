@@ -1,6 +1,12 @@
 Link-in-bio for Argonautts
 =========================
 
+## Stack
+- HTML
+- CSS
+- JavaScript
+- Vanta.js
+
 Create your own website
 
 ## License
